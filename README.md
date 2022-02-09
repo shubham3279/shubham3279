@@ -1,6 +1,6 @@
 <h1 align="center">HI ! I AM SHUBHAM .</h1>
 
-![](https://komarev.com/ghpvc/?username=shubham3279
+![](https://komarev.com/ghpvc/?username=shubham3279)
 
 <!--
 **shubham3279/shubham3279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
