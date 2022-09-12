@@ -1,4 +1,4 @@
-<h1 align="center">HI ! I AM SHUBHAM .</h1>
+<h1 align="center">HI ! I am SHUBHAM .</h1>
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/shubham3279/">
@@ -8,9 +8,6 @@
   <img src = "https://img.shields.io/badge/Kaggle-white?logo=kaggle&logoColor=black&style=for-the-badge" align="center">
   </a>  
 <div>
-  
-
-  I am an aspiring Data Scientist  from India.  
 ---
   
   ### :hammer_and_wrench: Languages  and Tools :
