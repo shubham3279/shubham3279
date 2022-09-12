@@ -9,7 +9,7 @@
   </a>  
 <div>
   
-### :man_technologist:
+
   I am an aspiring Data Scientist  from India.  
 ---
   
