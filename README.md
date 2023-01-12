@@ -11,9 +11,10 @@
   
   ### :hammer_and_wrench: Languages  and Tools :
   
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham3279&layout=compact&theme=tokyonight)
+(https://github.com/shubham3279/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham3279&layout=compact&theme=vision-friendly-dark)](https://github.com/shubham3279/github-readme-stats)
+  
   <br>
   <br>
  
