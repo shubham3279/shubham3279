@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">I am passionate about science and technology in general, AI in particular.</h3>
 
-<p align="left"> <a href="https://twitter.com/shubham3279_" target="blank"><img src="https://img.shields.io/twitter/follow/shubham3279_?logo=twitter&style=for-the-badge" alt="shubham3279_" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/shubham3279_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/shubham3279_?logo=twitter&style=for-the-badge" alt="shubham3279_" />
+  </a>
+</p>
+
+<p align="center"> 
+  <a href="https://www.youtube.com/channel/UCvWHNXzz1orGO9D7zJGwSvA" target="blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCvWHNXzz1orGO9D7zJGwSvA?style=for-the-badge" alt="shubham3279_" />
+  </a>
+</p>
+
+
 
 - 🌱 I’m currently learning **Arduino-Uno-R3**
 
