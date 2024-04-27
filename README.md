@@ -37,13 +37,7 @@
 
 
 <div align="center">
-    <table>
-      <tr>
-        <td style="width: 500px;">
-              <img src = "my.tech.stack.png">
-        </td>
-        <td>
-                                <table >
+                    <table >
                        <tr>
                          <td>Languages</td>
                          <td> 
@@ -79,9 +73,7 @@
                          </td>
                        </tr>
                       </table>
-        </td>
-      </tr>
-    </table>
+</div>
 
 
 
