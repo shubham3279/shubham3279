@@ -5,16 +5,6 @@
   Hi 👋 ! I am Shubham. 
 </h1>
 
-
-<!-- Social Accounts-->
-<p align = "center">
-
-  <a href="mailto:shubhamv0918@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
 ------------------------------------------------------------------------------------------------------------
 
 <!-- This is a comment and won't be rendered 
