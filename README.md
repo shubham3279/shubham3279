@@ -5,19 +5,12 @@
   Hi 👋 ! I am Shubham. 
 </h1>
 
-<div align = 'left'>
+<div align = 'center'>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham3279)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
-
-<div align = 'right'>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham3279)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-</div>
 
 --------------------------------------------------
 
