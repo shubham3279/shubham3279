@@ -8,7 +8,7 @@
   align = "center" 
   font-family = "monospace"
   > 
-  I am an aspiring <b>Digital VLSI Design</b> engineer. <br>
+  I am an aspiring <b>Digital VLSI </b> engineer. <br>
   <i>Welcome to my GitHub. </i>
     <!---
   My proficiency lies in Digital Electronics, and Digital System Design. <br>
