@@ -1,17 +1,24 @@
-<h1 
+<h1 align="center">
+  <code>Hi 👋! I am Shubham.</code>
+</h1>
+
+
+
+<p 
   align = "center" 
   font-family = "monospace"
   > 
-  Hi 👋 ! I am Shubham. 
-</h1>
+  I am an aspiring <b>Digital VLSI Design</b> engineer. <br>
+  <i>Welcome to my GitHub. </i>
+    <!---
+  My proficiency lies in Digital Electronics, and Digital System Design. <br>
+  I am well equpped with C, Python, Verilog HDL, Bash Scripting and LATEX, with familiarity of Embedded C, C++ and MATLAB.
+  Currently, I am learning about: <br>
+  * Digital CMOS IC Design <br>
+  * --->
+</p>
 
-<h1 
-  align = "center" 
-  font-family = "monospace"
-  > 
-  I am an aspiring Digital VLSI Design engineer. 
-</h1>
-
+    
 <div align = 'center'>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham3279)](https://github.com/anuraghazra/github-readme-stats)
