@@ -5,6 +5,13 @@
   Hi 👋 ! I am Shubham. 
 </h1>
 
+<h1 
+  align = "center" 
+  font-family = "monospace"
+  > 
+  I am an aspiring Digital VLSI Design engineer. 
+</h1>
+
 <div align = 'center'>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham3279)](https://github.com/anuraghazra/github-readme-stats)
