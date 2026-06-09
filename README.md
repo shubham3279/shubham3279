@@ -8,7 +8,7 @@
   align = "center" 
   font-family = "monospace"
   > 
-  I am an aspiring <b>Digital VLSI </b> engineer. <br>
+  I am currently working as Product Validation Engineer II at Cadence Design Systems (Noida, India) in the DFT (Design for Test - ATPG) domain. <br> The tool I am working on is Modus. <br>
   <i>Welcome to my GitHub. </i>
     <!---
   My proficiency lies in Digital Electronics, and Digital System Design. <br>
