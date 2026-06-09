@@ -1,75 +1,25 @@
-<h1 align="center">
-  <code>Hi 👋! I am Shubham.</code>
-</h1>
+<h1 align="center"><code>Hi 👋! I am Shubham.</code></h1>
 
-
-
-<p 
-  align = "center" 
-  font-family = "monospace"
-  > 
-  I am currently working as Product Validation Engineer II at Cadence Design Systems (Noida, India) in the DFT (Design for Test - ATPG) domain. <br> The tool I am working on is Modus. <br>
-  <i>Welcome to my GitHub. </i>
-    <!---
-  My proficiency lies in Digital Electronics, and Digital System Design. <br>
-  I am well equpped with C, Python, Verilog HDL, Bash Scripting and LATEX, with familiarity of Embedded C, C++ and MATLAB.
-  Currently, I am learning about: <br>
-  * Digital CMOS IC Design <br>
-  * --->
-</p>
-
-<!---  
-<div align = 'center'>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham3279&exclude_repo=github-readme-stats,anuraghazra.github.io)
-</div>
---->
-
---------------------------------------------------
-
-<!-- This is a comment and won't be rendered 
-
-
-<div align="center">
-                    <table >
-                       <tr>
-                         <td>Languages</td>
-                         <td> 
-                           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-                           <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-                           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-                           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-                         </td>
-                       </tr>
-                       <tr>
-                         <td>Libraries / Frameworks </td>
-                         <td> 
-                           <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-                           <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-                           <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-                           <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-                           <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-                           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-                         </td>
-                       </tr>
-                       <tr>
-                         <td>Databases</td>
-                         <td> 
-                           <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-                           <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-                         </td>
-                       </tr>
-                       <tr>
-                         <td>Version Control</td>
-                         <td> 
-                           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-                           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-                         </td>
-                       </tr>
-                      </table>
-</div>
-
-------------------------------------------------------------------------------------------------------------
--->
-
-
+<table align="center" border="0" cellpadding="10" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" width="60%" style="border: none; border-right: 1px solid #888; padding-right: 20px;">
+      <p>
+        <strong>Product Validation Engineer II</strong> at Cadence Design Systems<br>
+        DFT (ATPG) domain · <em>Modus</em><br><br>
+        M.Tech. ECE — Signal Processing & Digital Design<br>
+        Delhi Technological University<br><br>
+        Interests: semiconductor technology, computer architecture, and hardware-software co-design for AI/ML systems.
+      </p>
+    </td>
+    <td valign="top" align="center" width="40%" style="border: none; padding-left: 20px;">
+      <strong>⚙️ Tech & Tools</strong><br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Verilog-FF6600?style=flat&logo=v&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tcl-E4CC58?style=flat&logo=tcl&logoColor=black"/>
+    </td>
+  </tr>
+</table>
